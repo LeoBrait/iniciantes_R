@@ -1,0 +1,6 @@
+"verdura";"cor";"preco"
+"1";"alface";"verde";2.5
+"2";"couve";"verde";3.5
+"3";"repolho";"verde";4.5
+"4";"cenoura";"laranja";5.5
+"5";"beterraba";"laranja";6.5

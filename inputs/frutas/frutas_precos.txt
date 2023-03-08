@@ -1,0 +1,7 @@
+"fruta","cor","preço"
+"banana","amarela",2.5
+"maçã","vermelha",3.5
+"uva","roxa",4.5
+"abacaxi","verde",5.5
+"mamão","amarela",6.5
+"melancia","verde",7.5
