@@ -15,13 +15,12 @@ alunos <- c(
 )
 tempo_redes_sociais <- c(1, 2, 2, 2, 3, 2, 3, 3.5, 4, 5)
 nota_prova <- c(10, 9, 8, 8, 6, 6, 5, 5, 4, 4)
-plot(tempo_redes_sociais, nota_prova)
 df <- data.frame(alunos, tempo_redes_sociais, nota_prova)
-View(df)
-
+#View(df)
 # transformador de escala
 #df$tempo_redes_sociais <- df$tempo_redes_sociais * 60
 #df$nota_prova <- df$nota_prova * 10
+#View(df)
 
 
 # Transformar em x e y
@@ -76,8 +75,18 @@ coeficiente_correlacao <- covariancia / sqrt(variancia_x * variancia_y)
 r_quadrado <- coeficiente_correlacao ^ 2
 
 
+# Parâmetros da reta -----------------------------------------------------------
+## Coeficiente angular
+coeficiente_angular <- covariancia / variancia_x
 
+## Coeficiente linear
+coeficiente_linear <- media_y - coeficiente_angular * media_x
 
+## Y predito
+y_predito <- coeficiente_angular * x + coeficiente_linear
+
+## Resíduos
+residuos <- y - y_predito
 
 #plot linear regression abline
 plot(
@@ -86,8 +95,26 @@ plot(
   col = "blue",
   main = "",
   xlab = "Tempo em redes sociais",
-  ylab = "Nota na prova"
+  ylab = "Nota na prova",
+  xlim = c(0, 6),
+  ylim = c(0, 11)
 )
-abline(lm(y ~ x), col = "red")
+abline(coeficiente_linear, coeficiente_angular, col = "red", lwd = 2)
+
+
+############################# Versão simplificada ##############################
+plot(
+  x, y,
+  pch = 19,
+  col = "blue",
+  main = "",
+  xlab = "Tempo em redes sociais",
+  ylab = "Nota na prova",
+  xlim = c(0, 6),
+  ylim = c(0, 11)
+)
+abline(lm(y ~ x), col = "red", lwd = 2)
+
+
 sumario <- summary(lm(y ~ x))
 print(sumario)
