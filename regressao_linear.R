@@ -115,6 +115,5 @@ plot(
 )
 abline(lm(y ~ x), col = "red", lwd = 2)
 
-
 sumario <- summary(lm(y ~ x))
 print(sumario)
