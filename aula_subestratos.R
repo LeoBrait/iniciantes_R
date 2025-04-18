@@ -1,3 +1,13 @@
+# Titulo 
+#   Aula de tidyverse
+# Descrição 
+#   Nesta aula aprenderemos sobre as funções do tidyverse, que são muito úteis
+#   para a transformação de tabelas. O tidyverse possui um conjunto de funções 
+
+#     
+
+
+
 library(tidyverse)
 
 
@@ -9,8 +19,6 @@ View(df)
 # A função mutate() é usada para criar novas variáveis ou modificar existentes
 # Podemos empregar inclusive fórmulas para responder perduntas sobre os dados
 #
-# Obs.: Os desafios devem ser resolvididos com as funç~~aoes disponibilizadas
-#       até o bloco em quetão.
 ################################################################################
 
 
