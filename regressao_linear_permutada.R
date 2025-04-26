@@ -187,7 +187,9 @@ for (i in 1:permutations){
 
 }
 
-## Calcular p-valor
-coef_obs <- resultados_originais$coeficiente_correlacao
-p_valor <- sum(abs(resultados$coeficiente_correlacao) >= abs(coef_obs)) / permutations
-
+## Calcular p-valor bicaudal
+p_valor <-
+  sum(
+    abs(resultados$coeficiente_correlacao)
+    >= abs(resultados_originais$coeficiente_correlacao)
+  ) / permutations

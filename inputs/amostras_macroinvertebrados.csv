@@ -1,0 +1,193 @@
+amostra,bioma,estrato_florestal,coletor,ephemeroptera,plecoptera,tricoptera
+AMZ-E-001,Amazônia,emergente,Marina Costa,14,1,4
+AMZ-E-002,Amazônia,emergente,Lucas Lima,11,1,10
+AMZ-E-003,Amazônia,emergente,Marina Costa,15,3,9
+AMZ-E-004,Amazônia,emergente,Ana Souza,10,3,3
+AMZ-E-005,Amazônia,emergente,Ana Souza,10,4,9
+AMZ-E-006,Amazônia,emergente,João Silva,8,3,8
+AMZ-E-007,Amazônia,emergente,Lucas Lima,4,3,4
+AMZ-E-008,Amazônia,emergente,João Silva,15,3,10
+AMZ-E-009,Amazônia,emergente,Lucas Lima,5,0,4
+AMZ-E-010,Amazônia,emergente,Lucas Lima,8,4,6
+AMZ-E-011,Amazônia,emergente,João Silva,6,2,3
+AMZ-E-012,Amazônia,emergente,Marina Costa,5,4,5
+AMZ-E-013,Amazônia,emergente,Lucas Lima,10,3,8
+AMZ-E-014,Amazônia,emergente,Marina Costa,4,0,5
+AMZ-E-015,Amazônia,emergente,Ana Souza,16,3,10
+AMZ-E-016,Amazônia,emergente,Lucas Lima,14,4,5
+AMZ-D-001,Amazônia,dossel,Ana Souza,15,1,3
+AMZ-D-002,Amazônia,dossel,Marina Costa,8,1,5
+AMZ-D-003,Amazônia,dossel,Lucas Lima,15,0,6
+AMZ-D-004,Amazônia,dossel,Ana Souza,5,1,10
+AMZ-D-005,Amazônia,dossel,João Silva,5,2,6
+AMZ-D-006,Amazônia,dossel,João Silva,8,1,4
+AMZ-D-007,Amazônia,dossel,João Silva,12,1,10
+AMZ-D-008,Amazônia,dossel,João Silva,10,1,5
+AMZ-D-009,Amazônia,dossel,Marina Costa,8,0,4
+AMZ-D-010,Amazônia,dossel,Lucas Lima,6,1,7
+AMZ-D-011,Amazônia,dossel,João Silva,8,0,3
+AMZ-D-012,Amazônia,dossel,Lucas Lima,8,4,5
+AMZ-D-013,Amazônia,dossel,Ana Souza,15,2,9
+AMZ-D-014,Amazônia,dossel,Lucas Lima,14,4,10
+AMZ-D-015,Amazônia,dossel,João Silva,15,0,6
+AMZ-D-016,Amazônia,dossel,Lucas Lima,13,0,10
+AMZ-S-001,Amazônia,subbosque,Lucas Lima,11,0,10
+AMZ-S-002,Amazônia,subbosque,Marina Costa,15,4,10
+AMZ-S-003,Amazônia,subbosque,Marina Costa,12,4,9
+AMZ-S-004,Amazônia,subbosque,Lucas Lima,11,1,6
+AMZ-S-005,Amazônia,subbosque,Lucas Lima,4,0,5
+AMZ-S-006,Amazônia,subbosque,Marina Costa,12,0,5
+AMZ-S-007,Amazônia,subbosque,Marina Costa,11,4,7
+AMZ-S-008,Amazônia,subbosque,Marina Costa,13,1,5
+AMZ-S-009,Amazônia,subbosque,João Silva,4,4,6
+AMZ-S-010,Amazônia,subbosque,Ana Souza,7,3,5
+AMZ-S-011,Amazônia,subbosque,Lucas Lima,11,3,7
+AMZ-S-012,Amazônia,subbosque,João Silva,7,4,3
+AMZ-S-013,Amazônia,subbosque,Marina Costa,16,4,3
+AMZ-S-014,Amazônia,subbosque,Lucas Lima,6,2,10
+AMZ-S-015,Amazônia,subbosque,Ana Souza,5,3,6
+AMZ-S-016,Amazônia,subbosque,Lucas Lima,4,3,6
+AMZ-F-001,Amazônia,floresta,Marina Costa,16,4,5
+AMZ-F-002,Amazônia,floresta,Lucas Lima,8,1,6
+AMZ-F-003,Amazônia,floresta,Marina Costa,9,2,5
+AMZ-F-004,Amazônia,floresta,Ana Souza,5,4,4
+AMZ-F-005,Amazônia,floresta,João Silva,13,4,3
+AMZ-F-006,Amazônia,floresta,Lucas Lima,14,1,7
+AMZ-F-007,Amazônia,floresta,Lucas Lima,9,1,6
+AMZ-F-008,Amazônia,floresta,Marina Costa,9,3,10
+AMZ-F-009,Amazônia,floresta,Ana Souza,15,2,10
+AMZ-F-010,Amazônia,floresta,Marina Costa,12,4,10
+AMZ-F-011,Amazônia,floresta,João Silva,13,2,9
+AMZ-F-012,Amazônia,floresta,João Silva,6,2,6
+AMZ-F-013,Amazônia,floresta,Lucas Lima,9,0,9
+AMZ-F-014,Amazônia,floresta,Ana Souza,11,1,9
+AMZ-F-015,Amazônia,floresta,João Silva,5,2,6
+AMZ-F-016,Amazônia,floresta,Ana Souza,7,2,10
+MAT-E-001,Mata Atlântica,emergente,Lucas Lima,7,2,3
+MAT-E-002,Mata Atlântica,emergente,Marina Costa,9,2,9
+MAT-E-003,Mata Atlântica,emergente,Marina Costa,9,2,3
+MAT-E-004,Mata Atlântica,emergente,Ana Souza,6,3,7
+MAT-E-005,Mata Atlântica,emergente,João Silva,4,3,7
+MAT-E-006,Mata Atlântica,emergente,Lucas Lima,16,4,8
+MAT-E-007,Mata Atlântica,emergente,Ana Souza,5,2,10
+MAT-E-008,Mata Atlântica,emergente,Lucas Lima,8,1,6
+MAT-E-009,Mata Atlântica,emergente,Lucas Lima,11,0,9
+MAT-E-010,Mata Atlântica,emergente,Ana Souza,11,3,9
+MAT-E-011,Mata Atlântica,emergente,Marina Costa,8,0,4
+MAT-E-012,Mata Atlântica,emergente,Ana Souza,12,2,5
+MAT-E-013,Mata Atlântica,emergente,Marina Costa,6,2,9
+MAT-E-014,Mata Atlântica,emergente,João Silva,9,2,6
+MAT-E-015,Mata Atlântica,emergente,Ana Souza,10,1,6
+MAT-E-016,Mata Atlântica,emergente,Marina Costa,13,2,7
+MAT-D-001,Mata Atlântica,dossel,Marina Costa,5,3,5
+MAT-D-002,Mata Atlântica,dossel,Lucas Lima,13,4,5
+MAT-D-003,Mata Atlântica,dossel,Ana Souza,6,2,5
+MAT-D-004,Mata Atlântica,dossel,João Silva,6,1,4
+MAT-D-005,Mata Atlântica,dossel,Ana Souza,15,1,5
+MAT-D-006,Mata Atlântica,dossel,Lucas Lima,4,1,9
+MAT-D-007,Mata Atlântica,dossel,Ana Souza,13,2,9
+MAT-D-008,Mata Atlântica,dossel,João Silva,4,3,9
+MAT-D-009,Mata Atlântica,dossel,Ana Souza,6,3,4
+MAT-D-010,Mata Atlântica,dossel,João Silva,11,3,9
+MAT-D-011,Mata Atlântica,dossel,Ana Souza,14,2,8
+MAT-D-012,Mata Atlântica,dossel,João Silva,7,0,5
+MAT-D-013,Mata Atlântica,dossel,Ana Souza,15,3,10
+MAT-D-014,Mata Atlântica,dossel,Ana Souza,11,3,6
+MAT-D-015,Mata Atlântica,dossel,Marina Costa,16,2,9
+MAT-D-016,Mata Atlântica,dossel,Ana Souza,7,2,6
+MAT-S-001,Mata Atlântica,subbosque,Marina Costa,7,1,4
+MAT-S-002,Mata Atlântica,subbosque,João Silva,11,2,6
+MAT-S-003,Mata Atlântica,subbosque,Marina Costa,9,2,9
+MAT-S-004,Mata Atlântica,subbosque,Ana Souza,7,1,6
+MAT-S-005,Mata Atlântica,subbosque,Marina Costa,9,1,3
+MAT-S-006,Mata Atlântica,subbosque,Marina Costa,16,0,10
+MAT-S-007,Mata Atlântica,subbosque,Lucas Lima,4,2,5
+MAT-S-008,Mata Atlântica,subbosque,Lucas Lima,12,3,7
+MAT-S-009,Mata Atlântica,subbosque,Marina Costa,13,4,4
+MAT-S-010,Mata Atlântica,subbosque,Ana Souza,9,3,10
+MAT-S-011,Mata Atlântica,subbosque,Ana Souza,10,1,9
+MAT-S-012,Mata Atlântica,subbosque,João Silva,10,2,7
+MAT-S-013,Mata Atlântica,subbosque,João Silva,9,1,8
+MAT-S-014,Mata Atlântica,subbosque,Ana Souza,11,1,4
+MAT-S-015,Mata Atlântica,subbosque,Marina Costa,5,0,5
+MAT-S-016,Mata Atlântica,subbosque,Marina Costa,14,1,8
+MAT-F-001,Mata Atlântica,floresta,Marina Costa,11,3,8
+MAT-F-002,Mata Atlântica,floresta,João Silva,4,2,10
+MAT-F-003,Mata Atlântica,floresta,Lucas Lima,5,0,10
+MAT-F-004,Mata Atlântica,floresta,Lucas Lima,15,0,3
+MAT-F-005,Mata Atlântica,floresta,João Silva,8,1,7
+MAT-F-006,Mata Atlântica,floresta,João Silva,11,1,4
+MAT-F-007,Mata Atlântica,floresta,Lucas Lima,7,0,9
+MAT-F-008,Mata Atlântica,floresta,Ana Souza,9,2,4
+MAT-F-009,Mata Atlântica,floresta,Ana Souza,9,0,7
+MAT-F-010,Mata Atlântica,floresta,João Silva,8,4,5
+MAT-F-011,Mata Atlântica,floresta,Lucas Lima,12,2,5
+MAT-F-012,Mata Atlântica,floresta,Lucas Lima,15,4,3
+MAT-F-013,Mata Atlântica,floresta,Lucas Lima,14,0,7
+MAT-F-014,Mata Atlântica,floresta,Ana Souza,12,0,4
+MAT-F-015,Mata Atlântica,floresta,Ana Souza,11,3,3
+MAT-F-016,Mata Atlântica,floresta,Ana Souza,5,0,4
+CER-E-001,Cerrado,emergente,Marina Costa,16,0,7
+CER-E-002,Cerrado,emergente,João Silva,6,0,5
+CER-E-003,Cerrado,emergente,Marina Costa,14,4,10
+CER-E-004,Cerrado,emergente,João Silva,12,1,9
+CER-E-005,Cerrado,emergente,João Silva,7,4,7
+CER-E-006,Cerrado,emergente,Lucas Lima,8,1,7
+CER-E-007,Cerrado,emergente,João Silva,5,4,7
+CER-E-008,Cerrado,emergente,Marina Costa,13,1,5
+CER-E-009,Cerrado,emergente,Ana Souza,16,4,10
+CER-E-010,Cerrado,emergente,João Silva,15,4,8
+CER-E-011,Cerrado,emergente,Marina Costa,4,4,3
+CER-E-012,Cerrado,emergente,Lucas Lima,8,4,4
+CER-E-013,Cerrado,emergente,Lucas Lima,11,3,9
+CER-E-014,Cerrado,emergente,João Silva,15,3,8
+CER-E-015,Cerrado,emergente,Ana Souza,9,1,8
+CER-E-016,Cerrado,emergente,Ana Souza,9,0,4
+CER-D-001,Cerrado,dossel,Ana Souza,12,1,6
+CER-D-002,Cerrado,dossel,Ana Souza,16,1,6
+CER-D-003,Cerrado,dossel,Marina Costa,4,4,10
+CER-D-004,Cerrado,dossel,Ana Souza,16,2,4
+CER-D-005,Cerrado,dossel,Lucas Lima,4,1,10
+CER-D-006,Cerrado,dossel,João Silva,11,4,3
+CER-D-007,Cerrado,dossel,João Silva,7,4,3
+CER-D-008,Cerrado,dossel,Marina Costa,11,2,4
+CER-D-009,Cerrado,dossel,Marina Costa,10,3,7
+CER-D-010,Cerrado,dossel,João Silva,9,0,6
+CER-D-011,Cerrado,dossel,Lucas Lima,5,4,10
+CER-D-012,Cerrado,dossel,Ana Souza,9,1,5
+CER-D-013,Cerrado,dossel,Ana Souza,15,1,9
+CER-D-014,Cerrado,dossel,Ana Souza,7,4,7
+CER-D-015,Cerrado,dossel,João Silva,16,0,9
+CER-D-016,Cerrado,dossel,Lucas Lima,15,3,5
+CER-S-001,Cerrado,subbosque,João Silva,8,3,5
+CER-S-002,Cerrado,subbosque,João Silva,11,3,6
+CER-S-003,Cerrado,subbosque,Marina Costa,9,3,9
+CER-S-004,Cerrado,subbosque,Ana Souza,9,4,9
+CER-S-005,Cerrado,subbosque,Ana Souza,15,2,6
+CER-S-006,Cerrado,subbosque,Lucas Lima,6,2,3
+CER-S-007,Cerrado,subbosque,Lucas Lima,15,0,3
+CER-S-008,Cerrado,subbosque,Ana Souza,7,3,6
+CER-S-009,Cerrado,subbosque,Lucas Lima,8,0,9
+CER-S-010,Cerrado,subbosque,Lucas Lima,4,3,6
+CER-S-011,Cerrado,subbosque,Lucas Lima,12,2,5
+CER-S-012,Cerrado,subbosque,Ana Souza,13,3,6
+CER-S-013,Cerrado,subbosque,Ana Souza,6,4,10
+CER-S-014,Cerrado,subbosque,Marina Costa,14,0,3
+CER-S-015,Cerrado,subbosque,Marina Costa,10,3,3
+CER-S-016,Cerrado,subbosque,Lucas Lima,10,3,10
+CER-F-001,Cerrado,floresta,Lucas Lima,5,4,8
+CER-F-002,Cerrado,floresta,Lucas Lima,4,0,4
+CER-F-003,Cerrado,floresta,Marina Costa,15,2,5
+CER-F-004,Cerrado,floresta,João Silva,6,0,10
+CER-F-005,Cerrado,floresta,Marina Costa,12,2,5
+CER-F-006,Cerrado,floresta,Marina Costa,7,2,7
+CER-F-007,Cerrado,floresta,Marina Costa,6,1,10
+CER-F-008,Cerrado,floresta,João Silva,12,2,9
+CER-F-009,Cerrado,floresta,Ana Souza,10,0,3
+CER-F-010,Cerrado,floresta,Lucas Lima,5,3,3
+CER-F-011,Cerrado,floresta,Lucas Lima,16,3,7
+CER-F-012,Cerrado,floresta,Ana Souza,4,2,7
+CER-F-013,Cerrado,floresta,João Silva,9,1,3
+CER-F-014,Cerrado,floresta,Ana Souza,14,2,7
+CER-F-015,Cerrado,floresta,Lucas Lima,10,1,6
+CER-F-016,Cerrado,floresta,Marina Costa,4,0,9
