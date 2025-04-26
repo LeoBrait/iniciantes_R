@@ -26,9 +26,10 @@ df <- mutate(
 
 
 # Desafio 1!
-## Calcule a abundância relativa (porcentagem) de instos em cada coleta
-## usando a função mutate()
-## Dica: Pense/escreva como é a fórmula da porcentagem
+## Calcule a abundância relativa (porcentagem) de vada ordem de insetos
+## em cada coleta usando a função mutate()
+## Dica: Pense/escreva como é a fórmula da porcentagem antes de tentar resolver
+## Dica 2: imagine/desenhe como vc espera a tabela depois de resolver o desafio
 
 
 ############################ Group_by e summarise ##############################
@@ -48,11 +49,11 @@ df_medias_biomas <- summarise(     #
 
 # Desafio 2!
 ## Descreva o que aconteceu em cada um dos passos acima nas respectivas
-## linhas de código.
+## linhas de script
 
 # Desafio 3!
 ## Pesquise na internet e aplique outras 2 operações estatísticas descritivas
-## a partir da função summarise() e explique o que você fez.
+## dentro da função summarise() e explique o que você fez.
 
 ## Desafio 4!
 ## Descubra e escreva em texto o total de insetos encontrado por cada coletor
@@ -61,6 +62,7 @@ df_medias_biomas <- summarise(     #
 ## Desafio 5!
 ## Descubra e escreva em texto a porcentagem de insetos encontrados por cada
 ## coletor.
+## Resposta:
 
 ################################# Funçao Pipe ##################################
 #   * A função pipe (|>) é usada para criar fluxos de dados. O que ela faz é
@@ -129,3 +131,6 @@ df_sumario <- df |>
     total_insetos = sum(ephemeroptera + plecoptera + tricoptera),
     total_amostras = n()
   )
+
+## Dica: Essa tabela é muito grande, mas está sendo usada para exemplificar
+## que você pode fazerm muitas operações de uma única vez.
