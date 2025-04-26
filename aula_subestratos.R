@@ -1,8 +1,8 @@
 # Titulo
-#   Aula de tidyverse
+#   Aula de tidyverse - Resumindo dados!
 # Descrição
 #   Nesta aula aprenderemos sobre as funções do tidyverse, que são muito úteis
-#   para a transformação de tabelas.
+#   para a transformação de tabelas em estatísticas descritivas.
 ################################################################################
 
 library(tidyverse)
@@ -134,3 +134,9 @@ df_sumario <- df |>
 
 ## Dica: Essa tabela é muito grande, mas está sendo usada para exemplificar
 ## que você pode fazerm muitas operações de uma única vez.
+
+
+# Desafio final:
+# Teste, pesquise, escreva, explore e produza um texto explicando o que cada 
+# função faz de maneira topicalizada e aborde a diferença entre as funções
+# mutate(), group_by() e summarise().
