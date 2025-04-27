@@ -7,7 +7,6 @@
 
 library(tidyverse)
 
-
 df <- read_csv("inputs/amostras_macroinvertebrados.csv")
 View(df)
 
