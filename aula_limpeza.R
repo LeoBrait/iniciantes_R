@@ -18,7 +18,7 @@ df_filtro <- dplyr::filter(df, bioma == "Amazônia")
 
 # Posso fazer o contrário e filtrar os dados que NÃO são do bioma Amazônia
 # usando o operador de negação "!" (exclamação)
-
+# usamos os parênteses para conter a condição que será negada
 df_filtro <- dplyr::filter(df, !(bioma == "Amazônia"))
 
 # Posso ainda filtrar os dados de acordo com mais de uma condição para a
